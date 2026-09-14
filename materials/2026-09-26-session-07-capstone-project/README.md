@@ -1,6 +1,6 @@
 # Session 7: Project - Applying Neural Models to Biological Problems
 
-In the capstone project, participants are to select a mathematical neuroscience model and use it to explain a real biological or cognitive system.
+In the capstone project, participants will be grouped to work on a project that uses a mathematical neuroscience model to explain a real biological or cognitive system.
 
 ## Suggested project workflow
 
