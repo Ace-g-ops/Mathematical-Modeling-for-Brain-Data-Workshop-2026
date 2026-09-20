@@ -11,8 +11,8 @@ Mandela Rhodes Foundation's Äänit Prize in 2023.
 
 ## Links
 
-- [Google Scholar]([https://example.org/](https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en))
-- [ORCID]([https://orcid.org/](https://orcid.org/0000-0003-3217-5326))
+- [Google Scholar]([https://example.org/](https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en)
+- [ORCID]([https://orcid.org/](https://orcid.org/0000-0003-3217-5326)
 - [LinkedIn profile](https://uk.linkedin.com/in/kira-d%C3%BCsterwald-653746106)
 
 Only include links and personal information the speaker has approved for public release.
