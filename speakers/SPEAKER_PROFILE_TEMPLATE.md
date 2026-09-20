@@ -1,8 +1,8 @@
 # Kira Düsterwald
 
-- **Session:** [session title]
-- **Affiliation:** [institution or organization]
-- **Role:** [position or field]
+- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Affiliation:** [Amathambo AI](https://www.amathambo-ai.com)
+- **Role:** CEO
 
 ## Biography
 
@@ -11,8 +11,8 @@ Mandela Rhodes Foundation's Äänit Prize in 2023.
 
 ## Links
 
-- [Institutional profile](https://example.org/)
-- [ORCID](https://orcid.org/)
-- [Professional profile](https://example.org/)
+- [Google Scholar]([https://example.org/](https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en))
+- [ORCID]([https://orcid.org/](https://orcid.org/0000-0003-3217-5326))
+- [LinkedIn profile](https://uk.linkedin.com/in/kira-d%C3%BCsterwald-653746106)
 
 Only include links and personal information the speaker has approved for public release.
