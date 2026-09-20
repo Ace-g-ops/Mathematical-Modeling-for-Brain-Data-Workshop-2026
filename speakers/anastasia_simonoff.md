@@ -1,6 +1,6 @@
 # Anastasia Simonoff
 
-- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Session:** Computational Models of Neural Systems
 - **Affiliation:** [Freie Universitat, Berlin]([https://www.amathambo-ai.com](https://www.fu-berlin.de/en/index.html))
 - **Role:** Computational Neuroscientist
 
