@@ -1,6 +1,6 @@
 # Abdulwaliy Oyekunle
 
-- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Session:** Linear Algebra for Neural Data Representation
 
 ## Biography
 
