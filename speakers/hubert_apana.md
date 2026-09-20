@@ -1,6 +1,6 @@
 # Hubert Apana
 
-- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Session:** Linear Regression and the General Linear Model
 - **Role:** Computer Engineer
 
 ## Biography
