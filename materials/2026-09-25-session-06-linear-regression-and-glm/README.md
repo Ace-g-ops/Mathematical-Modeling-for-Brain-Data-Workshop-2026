@@ -2,7 +2,7 @@
 
 - **Date:** 25 September 2026
 - **Time:** To be confirmed
-- **Speaker:** Hubert
+- **Speaker:** Hubert Apana
 
 ## Overview
 
