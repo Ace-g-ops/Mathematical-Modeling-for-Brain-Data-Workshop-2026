@@ -1,6 +1,6 @@
 # AbdelQader AlKilany
 
-- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Session:** Single Neuron Models: From Biology to Equation
 - **Affiliation:** [Imperial College London](https://www.imperial.ac.uk/)
 - **Role:** PhD Candidate
 
