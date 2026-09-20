@@ -30,13 +30,13 @@ By the end of the workshop, participants should be able to:
 
 | Date | Time (UTC) | Session | Speaker | Materials |
 | --- | --- | --- | --- | --- |
-| 23 Sep 2026 | 09:00 - 11:00 | Single Neuron Models: From Biology to Equation | AlKilany, Abdal Qader | [Session 1](materials/2026-09-23-session-01-single-neuron-models/) |
-| 23 Sep 2026 | 18:00 - 20:00 | Computational Models of Neural Systems | Anastasia Simonoff | [Session 2](materials/2026-09-23-session-02-computational-models-of-neural-systems/) |
-| 24 Sep 2026 | 09:00 - 11:00 | Linear Algebra for Neural Data Representation | Abdulwaliy Oyekunle | [Session 3](materials/2026-09-24-session-03-linear-algebra-for-neural-data/) |
-| 24 Sep 2026 | 18:00 - 20:00 | Calculus and Differential Equations for Neural Dynamics | Kira Dusterwald  & Lahatra Harinasandratra| [Session 4](materials/2026-09-24-session-04-calculus-and-differential-equations/) |
-| 25 Sep 2026 | 09:00 - 11:00 | Probability and Uncertainty in Neural Modeling | Anna Freund | [Session 5](materials/2026-09-25-session-05-probability-and-uncertainty/) |
-| 25 Sep 2026 | 18:00 - 20:00 | Linear Regression and the General Linear Model | Hubert Apana | [Session 6](materials/2026-09-25-session-06-linear-regression-and-glm/) |
-| 26 Sep 2026 | All Day | Project: Applying Neural Models to Biological Problems | Facilitation team | [Session 7](materials/2026-09-26-session-07-capstone-project/) |
+| Wed, 23 Sep 2026 | 09:00 - 11:00 | Single Neuron Models: From Biology to Equation | AlKilany, Abdal Qader | [Session 1](materials/2026-09-23-session-01-single-neuron-models/) |
+| Wed, 23 Sep 2026 | 18:00 - 20:00 | Computational Models of Neural Systems | Anastasia Simonoff | [Session 2](materials/2026-09-23-session-02-computational-models-of-neural-systems/) |
+| Thur, 24 Sep 2026 | 09:00 - 11:00 | Linear Algebra for Neural Data Representation | Abdulwaliy Oyekunle | [Session 3](materials/2026-09-24-session-03-linear-algebra-for-neural-data/) |
+| Thur, 24 Sep 2026 | 18:00 - 20:00 | Calculus and Differential Equations for Neural Dynamics | Kira Dusterwald  & Lahatra Harinasandratra| [Session 4](materials/2026-09-24-session-04-calculus-and-differential-equations/) |
+| Fri, 25 Sep 2026 | 09:00 - 11:00 | Probability and Uncertainty in Neural Modeling | Anna Freund | [Session 5](materials/2026-09-25-session-05-probability-and-uncertainty/) |
+| Fri, 25 Sep 2026 | 18:00 - 20:00 | Linear Regression and the General Linear Model | Hubert Apana | [Session 6](materials/2026-09-25-session-06-linear-regression-and-glm/) |
+| Sat, 26 Sep 2026 | All Day | Project: Applying Neural Models to Biological Problems | Facilitation team | [Session 7](materials/2026-09-26-session-07-capstone-project/) |
 
 Schedule details may change. Confirmed updates will be posted in this repository.
 
