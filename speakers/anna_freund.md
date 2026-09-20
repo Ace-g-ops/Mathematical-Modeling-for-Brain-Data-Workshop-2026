@@ -1,6 +1,6 @@
 # Anna Freund
 
-- **Session:** Calculus and Differential Equations for Neural Dynamics
+- **Session:** 	Probability and Uncertainty in Neural Modeling
 - **Affiliation:** [Institute of Neural Engineering, TU Graz](https://www.tugraz.at/institute/ine)
 - **Role:** Project Assistant
 
