@@ -2,8 +2,7 @@
 
 - **Date:** 23 September 2026
 - **Time:** 18:00-20:00 UTC
-- **Speaker:** Anastasia S
-
+- **Speaker:** Anastasia Simonoff
 ## Overview
 
 This session moves from individual neurons to populations and explores how interactions and connectivity produce system-level neural behavior.
