@@ -1,7 +1,7 @@
 # Session 1: Single Neuron Models
 
 - **Date:** 23 September 2026
-- **Time:** XX:00-XX:00 UTC
+- **Time:** 09:00-11:00 UTC
 - **Speaker:** AlKilany, Abdal Qader
 
 ## Overview
