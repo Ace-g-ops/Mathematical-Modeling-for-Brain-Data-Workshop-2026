@@ -2,7 +2,7 @@
 
 - **Date:** 25 September 2026
 - **Time:** 09:00-11:00 UTC
-- **Speaker:** Anna
+- **Speaker:** Anna Freund
 
 ## Overview
 
