@@ -2,7 +2,7 @@
 
 - **Date:** 24 September 2026
 - **Time:** 18:00-20:00 UTC
-- **Speaker:** Kira
+- **Speaker:** Kira Dusterwald & Lahatra Harinasandratra
 
 ## Overview
 
