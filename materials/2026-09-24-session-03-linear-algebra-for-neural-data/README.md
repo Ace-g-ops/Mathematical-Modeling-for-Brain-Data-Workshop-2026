@@ -2,7 +2,7 @@
 
 - **Date:** 24 September 2026
 - **Time:** 09:00-11:00 UTC
-- **Speaker:** Waliy
+- **Speaker:** Abdulwaliy Oyekunle
 
 ## Overview
 
